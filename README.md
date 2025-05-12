@@ -1,10 +1,10 @@
-# 📺 Netflix Dataset Cleaning with pandas
+#  Netflix Dataset Cleaning with pandas
 
 This project focuses on cleaning and preprocessing the [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows) using Python and pandas. The notebook includes missing value handling, text standardization, and date formatting for better data quality and analysis readiness.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset used: `netflix_titles.csv`
 
@@ -12,7 +12,7 @@ It contains metadata about Netflix content including title, cast, country, relea
 
 ---
 
-## ✅ Tasks Performed
+##  Tasks Performed
 
 ### 1. **Initial Exploration**
 - Loaded the dataset with `pandas.read_csv()`.
@@ -83,6 +83,6 @@ netflix-data-cleaning/
 
 ---
 
-## 📝 License
+##  License
 
 This project is open-source and available under the [MIT License](LICENSE).
