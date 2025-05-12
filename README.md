@@ -51,7 +51,7 @@ It contains metadata about Netflix content including title, cast, country, relea
 
 ---
 
-## 🛠️ How to Run
+##  How to Run
 
 1. Clone this repository:
    ```bash
@@ -71,7 +71,7 @@ It contains metadata about Netflix content including title, cast, country, relea
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 netflix-data-cleaning/
